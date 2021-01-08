@@ -1,7 +1,27 @@
-### Hi there 👋
+<h1 align= "center"> Hi, I'm Irving! 👋</h1> 
+
+
+<h3 align= "center">A self-taught Frontend engineer striving to get better everyday! Currently based out of Montreal. Also a ramen enthusiast.</h3>
+
+- 🔭 I’m currently working on a todo list app!
+- 🌱 I’m currently learning UI Design from Scrimba's "Frontend Developer Career Path"
+- 🤝 I'm seeking a Junior Software Developer opportunity where I showcase my work ethic, ability and enthusiasm.
+
+
+
+
+
+
+
+
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/irving-henriquez/)
+
+
+- ⚡ Fun fact: I worked in Montreal's premier ramen restaurant Yokato Yokobai for almost 3 years. I wouldn't trade that experience for anything. It taught me the value of team work, discipline and hard work. Irasshaimase! 
 
 <!--
-**IrvHenri/IrvHenri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

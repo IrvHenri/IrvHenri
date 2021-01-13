@@ -18,7 +18,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/irving-henriquez/)
 
 
-- ⚡ Fun fact: I worked in Montreal's premier ramen restaurant Yokato Yokobai for almost 3 years. I wouldn't trade that experience for anything. It taught me the value of team work, discipline and hard work. Irasshaimase! 
+- ⚡ Fun fact: I was a cook at Montreal's premier ramen restaurant - Yokato Yokobai - for almost 3 years. I wouldn't trade that experience for anything because it taught me the value of teamwork, discipline and focus. Irasshaimase! 
 
 <!--
 

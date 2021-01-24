@@ -4,7 +4,7 @@
 <h3 align= "center">A self-taught Frontend engineer striving to get better everyday! Currently based out of Montreal. Also a ramen enthusiast.</h3>
 
 - 🔭 I’m currently working on a todo list app!
-- 🌱 I’m currently learning UI Design from Scrimba's "Frontend Developer Career Path"
+- 🌱 I’m currently learning React from Scrimba's "Frontend Developer Career Path"
 - 🤝 I'm seeking a Junior Software Developer opportunity where I showcase my work ethic, ability and enthusiasm.
 
 

@@ -3,9 +3,9 @@
 
 <h3 align= "center">A self-taught Frontend engineer looking to get better everyday! Currently based out of Montreal. Also a ramen enthusiast.</h3>
 
-- 🔭 I’m currently working on a Twitter clone!
-- 🌱 I’m currently learning React from Scrimba's "Frontend Developer Career Path"
-- 🤝 I'm seeking a Junior Software Developer opportunity where I showcase my work ethic, ability and enthusiasm.
+- 🔭 I’m currently working on a Twitter clone with React and a firebase database.
+- 🌱 I’m currently learning React Hooks from Scrimba's "Frontend Developer Career Path"
+- 🤝 Seeking a Junior Software Developer opportunity where I showcase my work ethic, ability and enthusiasm.
 
 
 

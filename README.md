@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Twitter clone with React and a firebase database.
 - 🌱 I’m currently learning React Hooks from Scrimba's "Frontend Developer Career Path"
-- 🤝 Seeking a Junior Software Developer opportunity where I showcase my work ethic, ability and enthusiasm.
+
 
 
 

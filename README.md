@@ -1,7 +1,7 @@
 <h1 align= "center"> Hi, I'm Irving! 👋</h1> 
 
 
-<h3 align= "center">A self-taught Frontend developer focused on improving everyday and creating web applications. Currently based out of Montreal. Also a ramen enthusiast 🍜 .</h3>
+<h3 align= "center">A self-taught Frontend developer focused on improving everyday and building new things. Currently based out of Montreal. Also a ramen enthusiast 🍜 .</h3>
 
 - 🔭 Currently working on a Bitcoin price tracker app!
 - 🌱 I’m currently learning React Hooks from Scrimba's "Frontend Developer Career Path"

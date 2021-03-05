@@ -7,6 +7,8 @@
 
 - 🔭 Currently working on a Bitcoin price tracker app
 - 🌱 I’m currently learning React Hooks
+- ⚡ A few things I love: Mythology, History and Stand-up comedy 
+
 <h4>🚀 Some Tools I Use</h4> 
  <p align="left" padding-left="20px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
@@ -19,7 +21,7 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 
-- ⚡ A few things I love: Mythology, History and Stand-up comedy 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)
 

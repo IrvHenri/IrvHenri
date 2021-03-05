@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on a Bitcoin price tracker app
 - 🌱 I’m currently learning React Hooks
-- ⚡ Fun Fact: I used to perform improv in Montreal
+- ⚡ Fun Fact: I used to perform improv in Montréal
 
 <h4>🚀 Some Tools I Use</h4> 
  <p align="left" padding-left="20px">

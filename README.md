@@ -1,7 +1,7 @@
 <h1 align= "left"> Hi, I'm Irving! 👋</h1> 
 
 
-<h3 align= "left">A self-taught Frontend developer focused on improving everyday. Currently based out of Montréal. Also a ramen enthusiast 🍜.</h3>
+<h3 align= "left">A self-taught Frontend developer who's focused on improving everyday. Currently based out of Montréal. Also a ramen enthusiast 🍜.</h3>
 
 
 

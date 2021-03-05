@@ -1,24 +1,18 @@
 <h1 align= "center"> Hi, I'm Irving! 👋</h1> 
 
 
-<h3 align= "center">A self-taught Frontend developer focused on improving everyday and building new apps. Currently based out of Montreal. Also a ramen enthusiast 🍜 .</h3>
-
-- 🔭 Currently working on a Bitcoin price tracker app!
-- 🌱 I’m currently learning React Hooks from Scrimba's "Frontend Developer Career Path"
+<h3 align= "center">A Frontend developer focused on improving everyday. Currently based out of Montreal. Also a ramen enthusiast 🍜.</h3>
 
 
 
+- 🔭 Currently working on a Bitcoin price tracker app
+- 🌱 I’m currently learning React Hooks
 
 
+- ⚡ A few things I love: Mythology, History and Stand-up comedy 
 
+[![Linkedin Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)
 
-
-
-
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/irving-henriquez/)
-
-
-- ⚡ A few things I enjoy: Mythology, History, Chess, Stand-up comedy , Cooking and Improv  ! 
 
 <!--
 

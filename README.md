@@ -22,7 +22,7 @@
 
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)  ![](https://visitor-badge.glitch.me/badge?page_id=IrvHenri.IrvHenri)
+  [![Linkedin Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IrvHenri)
 
 
 <!--

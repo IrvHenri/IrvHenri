@@ -6,7 +6,7 @@
 
 
 - 🔭 Currently working on a Bitcoin price tracker app
-- 🌱 I’m currently learning React Hooks
+- 🌱 I’m currently learning React Router
 - ⚡ Fun Fact: I used to perform improv in Montréal
 
 <h4>🚀 Some Tools I Use</h4> 

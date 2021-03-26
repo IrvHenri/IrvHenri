@@ -9,7 +9,12 @@
 - 🌱 I’m currently learning React Router
 - ⚡ Fun Fact: I used to perform improv in Montréal
 
+
+  [![Linkedin Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IrvHenri)
+
+
 <h4>🚀 Some Tools I Use</h4> 
+
  <p align="left" padding-left="20px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
@@ -22,8 +27,17 @@
 
 
 
-  [![Linkedin Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IrvHenri)
 
+### ⚡Projects
+
+| Websites | Vanilla Js | ReactJs | FullStack |
+| ------------- | ------------- | ------------- | -------------- |
+| [My Portfolio](https://github.com/IrvHenri/my_portfolio) | [Dice Game](https://github.com/IrvHenri/Dice-App) |   [Twitter Clone](https://github.com/IrvHenri/twitter-clone) |  -  |
+| [Fantasy Football Page](https://github.com/IrvHenri/Fantasy-Football-Page) | [Event Countdown](https://github.com/IrvHenri/eventCountdown) | [Pik Markt](https://github.com/IrvHenri/pik-markt) |  -  |
+| [Hotel Page](https://github.com/IrvHenri/Hotel-Website) |  [Note-It](https://github.com/IrvHenri/note-it)  |  [To-do List](https://github.com/IrvHenri/to-do-app) | -  |
+| [Edge-Ledger Corperate Page](https://github.com/IrvHenri/Edge-Ledger-Website) |  [Book Finder](https://github.com/IrvHenri/Book-Finder-App)  |  [Speed Typing Game](https://github.com/IrvHenri/speed-typing-game) | - |
+| [News-grid Page](https://github.com/IrvHenri/newsgrid) |  |  [Movie-Search App](https://github.com/IrvHenri/react-movie-search-app) | - |
+| |   |   |   |
 
 <!--
 

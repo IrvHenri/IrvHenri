@@ -33,8 +33,8 @@
 | Websites | Vanilla Js | ReactJs | FullStack |
 | ------------- | ------------- | ------------- | -------------- |
 | [My Portfolio](https://github.com/IrvHenri/my_portfolio) | [Dice Game](https://github.com/IrvHenri/Dice-App) |   [Twitter Clone](https://github.com/IrvHenri/twitter-clone) |  -  |
-| [Fantasy Football Page](https://github.com/IrvHenri/Fantasy-Football-Page) | [Event Countdown](https://github.com/IrvHenri/eventCountdown) | [Pik Markt](https://github.com/IrvHenri/pik-markt) |  -  |
-| [Hotel Page](https://github.com/IrvHenri/Hotel-Website) |  [Note-It](https://github.com/IrvHenri/note-it)  |  [To-do List](https://github.com/IrvHenri/to-do-app) | -  |
+| [Fantasy Football Page](https://github.com/IrvHenri/Fantasy-Football-Page) | [Note-It (Google Keep Clone](https://github.com/IrvHenri/note-it) xx  | [Pik Markt](https://github.com/IrvHenri/pik-markt) |  -  |
+| [Hotel Page](https://github.com/IrvHenri/Hotel-Website) | [Event Countdown](https://github.com/IrvHenri/eventCountdown) |  [To-do List](https://github.com/IrvHenri/to-do-app) | -  |
 | [Edge-Ledger Corporate Page](https://github.com/IrvHenri/Edge-Ledger-Website) |  [Book Finder](https://github.com/IrvHenri/Book-Finder-App)  |  [Speed Typing Game](https://github.com/IrvHenri/speed-typing-game) | - |
 | [News-grid Page](https://github.com/IrvHenri/newsgrid) |  |  [Movie-Search App](https://github.com/IrvHenri/react-movie-search-app) | - |
 | |   | [Meme-Generator](https://github.com/IrvHenri/meme-generator)  |   |

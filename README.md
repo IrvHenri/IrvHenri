@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Currently working on a Bitcoin price tracker app
+- 🔭 Currently working on a Crypto coin tracker
 - 🌱 I’m currently learning React Router
 - ⚡ Fun Fact: I used to perform improv in Montréal
 

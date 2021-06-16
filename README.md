@@ -1,7 +1,7 @@
 <h1 align= "left"> Hi, I'm Irving! 👋</h1> 
 
 
-<h3 align= "left">A junior full stack developer who's focused on improving everyday. I live in Montréal, Québec. Also a ramen enthusiast 🍜.</h3>
+<h3 align= "left">Junior full stack developer who's focused on improving everyday. I live in Montréal, Québec. Also a ramen enthusiast 🍜.</h3>
 
 
 

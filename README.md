@@ -5,8 +5,8 @@
 
 
 
-- 🔭 Currently working on a Crypto coin tracker
-- 🌱 I’m currently learning React Router
+- 🔭 Currently working on a crypto coin tracker
+- 🌱 I’m currently learning Cypress end to end testing
 - ⚡ Fun Fact: I used to perform improv in Montréal
 
 

@@ -6,7 +6,7 @@
 
 
 - 🔭 Currently working on a crypto coin tracker
-- 🌱 I’m currently learning Cypress end to end testing
+- 🌱 I’m currently learning Sequalize
 - ⚡ Fun Fact: I used to perform improv in Montréal
 
 

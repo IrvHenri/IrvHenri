@@ -6,7 +6,7 @@
 
 
 - 🔭 Currently working on a crypto coin tracker
-- 🌱 I’m currently learning Sequalize
+- 🌱 I’m currently learning GraphQL
 - ⚡ Fun Fact: I used to perform improv in Montréal
 
 

@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Currently working on a crypto coin tracker
+- 🔭 Currently working on an Instagram clone
 - 🌱 I’m currently learning GraphQL
 - ⚡ Fun Fact: I used to perform improv in Montréal
 

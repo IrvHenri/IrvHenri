@@ -30,7 +30,7 @@ I'm a software developer with 3+ years of experience specializing in JavaScript,
 | **Category**         | **Notable Projects**                                                                                                                                       |
 |-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Full-Stack**       | [Tell-it!](https://github.com/IrvHenri/story-creator) • [TinyApp](https://github.com/IrvHenri/tinyapp) • [Moonshot](https://github.com/IrvHenri/moonshot)  |
-| **React**            | [Pik Markt](https://github.com/IrvHenri/pik-markt) • [Twitter Clone](https://github.com/IrvHenri/twitter-clone) • [Meme Generator](https://github.com/IrvHenri/meme-generator) |
+| **React**            | [Pik Markt](https://github.com/IrvHenri/pik-markt) • [Twitter Clone](https://github.com/IrvHenri/twitter-clone)
 | **Vanilla JS & jQuery** | [Tweeter](https://github.com/IrvHenri/tweeter) • [Event Countdown](https://github.com/IrvHenri/eventCountdown) • [Book Finder](https://github.com/IrvHenri/Book-Finder-App) |
 | **Websites**         | [My Portfolio](https://github.com/IrvHenri/irving_portfolio) • [Hotel Page](https://github.com/IrvHenri/Hotel-Website) • [Edge-Ledger](https://github.com/IrvHenri/Edge-Ledger-Website) |
 

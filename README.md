@@ -26,4 +26,4 @@ I'm a software developer with 3+ years of experience specializing in JavaScript,
 
 #### 📫 Let's Connect!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=IrvHenri)
+[![LinkedIn Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/)

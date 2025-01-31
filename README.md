@@ -23,19 +23,7 @@ I'm a software developer with 3+ years of experience specializing in JavaScript,
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
----
 
-#### ⚡ Featured Projects
-
-| **Category**         | **Notable Projects**                                                                                                                                       |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Full-Stack**       | [Tell-it!](https://github.com/IrvHenri/story-creator) • [TinyApp](https://github.com/IrvHenri/tinyapp) • [Moonshot](https://github.com/IrvHenri/moonshot)  |
-| **React**            | [Pik Markt](https://github.com/IrvHenri/pik-markt) • [Twitter Clone](https://github.com/IrvHenri/twitter-clone)
-| **Vanilla JS & jQuery** | [Tweeter](https://github.com/IrvHenri/tweeter) • [Event Countdown](https://github.com/IrvHenri/eventCountdown) • [Book Finder](https://github.com/IrvHenri/Book-Finder-App) |
-| **Websites**         | [My Portfolio](https://github.com/IrvHenri/irving_portfolio) • [Hotel Page](https://github.com/IrvHenri/Hotel-Website) • [Edge-Ledger](https://github.com/IrvHenri/Edge-Ledger-Website) |
-
----
-
-#### 📫 Connect with Me
+#### 📫 Let's Connect!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-IrvingH-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irving-henriquez/)](https://www.linkedin.com/in/irving-henriquez/) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=IrvHenri)

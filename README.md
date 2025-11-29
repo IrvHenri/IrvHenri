@@ -1,15 +1,18 @@
-# 👋 Hi, I'm Irving
-**Full-Stack / Salesforce + AWS + Angular**  
-I build reliable, secure systems for the Gov of Canada and beyond. Previously at a startup; now shipping integrations, APIs, and modern UIs that actually move the needle.
+# 👋 Hey, I'm Irving
 
-**Notable wins**
-- Scaled a parliamentary scheduling platform to **345+ offices**, supporting **~1,000+ weekly service hours**.  
-- Built a Salesforce–AWS case management module that **reduced case-processing time by ~30%**.  
-- Delivered a **secure Salesforce↔AWS data pipeline** via **AppFlow** with **Lambda · SQS/DLQ**; streamed **Salesforce Platform Events → CloudWatch** to power analytics, strengthening **data governance** and **incident visibility**.
+Full-stack dev working with **Salesforce, AWS, and Angular**.  
+Right now I build tools and integrations for the Government of Canada.
 
-- Current focus: secure Salesforce↔AWS integrations, delviering MVPs and CI/CD.  
-- Off-hours: ramen, tennis, learning by doing.
+## A few wins
+- Helped scale a scheduling platform used by **345+ offices** and **~1,000 weekly service hours**.  
+- Built a Salesforce–AWS case system that **made handling cases noticeably faster**.  
+- Set up a **secure Salesforce ↔ AWS data pipeline** so the team can actually see what’s going on in production.
 
-**Toolbox:** JS/TS · React/Angular · Node · AWS · Salesforce · PostgreSQL · Terraform · CI/CD
+## Outside of code
+Ramen, tennis, and learning by trying things out.
+
+---
+
+**Toolbox:** JS/TS · React/Angular · Node · AWS · Salesforce · PostgreSQL · Terraform · CI/CD  
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/irving-henriquez/)

@@ -1,5 +1,3 @@
-# 👋 Hey, I'm Irving
-
 Full-stack dev working with **Salesforce, AWS, and Angular**.  
 Right now I build tools and integrations for the Government of Canada.
 
